@@ -52,7 +52,8 @@ For Software:
 (https://drive.google.com/file/d/1FZiNCTMt-iHVGxX-MC4Eyi_9V_uBZnn9/view?usp=drive_link)
 user-friendly interface where the user clicks a “Generate New Excuse” button, and within seconds, a funny, over-the-top excuse appears on the screen
 
-
+### Additional Demos
+( https://symphonious-rabanadas-9592a5.netlify.app/ )
 ## Team Contributions
 - [Aneeta Anto & Anna Rose C J]: [Idea ,setting languages like html,css,js and corresponding frameworks and tools]
 
