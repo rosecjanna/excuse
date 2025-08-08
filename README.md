@@ -49,7 +49,7 @@ For Software:
 
 ### Project Demo
 # Video
-[https://github.com/rosecjanna/excuse/blob/main/AI%20Excuse%20Generator%20App%20and%208%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202025-08-09%2004-21-24.zip]
+(https://drive.google.com/file/d/1dpMpvx2pNMg7iK7FSKc6NaesOWUVaBvB/view?usp=drive_link)
 user-friendly interface where the user clicks a “Generate New Excuse” button, and within seconds, a funny, over-the-top excuse appears on the screen
 
 
