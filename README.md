@@ -55,7 +55,7 @@ user-friendly interface where the user clicks a “Generate New Excuse” button
 ### Additional Demos
 ( https://symphonious-rabanadas-9592a5.netlify.app/ )
 ## Team Contributions
-- [Aneeta Anto & Anna Rose C J]: [Idea ,setting languages like html,css,js and corresponding frameworks and tools]
+-  [ Aneeta Anto & Anna Rose C J ]:  [ Idea ,setting languages like html,css,js and corresponding frameworks and tools ]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
