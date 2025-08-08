@@ -40,7 +40,7 @@ npm install ]
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots (Add at least 2)
 ![Screenshot1](https://github.com/rosecjanna/excuse/blob/main/Screenshot%202025-08-09%20040517.png)
 "Excuse Generator – Your go-to machine for creating the funniest, most outrageous excuses in seconds!"
 
