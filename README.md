@@ -15,7 +15,7 @@
 ### Project Description
 [we can generate new excuses with a single click, copy them to share, and enjoy endless quirky possibilities. It’s perfect for adding humor to your day or breaking the ice in conversations.you need a witty reason to miss a meeting, explain a delay, or simply make someone laugh, this tool has you covered.]
 
-### The Problem (that doesn't exist)
+### The Problem 
 [An Ai Excuse Generator maker]
 
 ### The Solution (that nobody asked for)
