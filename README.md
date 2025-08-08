@@ -1,47 +1,41 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Excuse Generator] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Crack It]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Anna Rose C J] - [Jyothi Engineering College ,Cheruthuruthy]
+- Member 2: [Aneeta Anto] - [Jyothi Engineering College ,Cheruthuruthy]
 
 ### Project Description
-[2-3 lines about what your project does]
+[we can generate new excuses with a single click, copy them to share, and enjoy endless quirky possibilities. It’s perfect for adding humor to your day or breaking the ice in conversations.you need a witty reason to miss a meeting, explain a delay, or simply make someone laugh, this tool has you covered.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[An Ai Excuse Generator maker]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[using this we can create random and funny excuses by both build-in and customized excuses]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Languages used html,css,js]
+- [Frameworks used node.js,react.js]
+- [Tools used vite]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[commands:-npm install react react-dom ,
+npm install ]
 
 # Run
-[commands]
+[commands:- npm run dev]
 
 ### Project Documentation
 For Software:
