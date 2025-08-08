@@ -42,36 +42,10 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](https://github.com/rosecjanna/excuse/blob/main/Screenshot%202025-08-09%20040517.png)
-*Add caption explaining what this shows*
+"Excuse Generator – Your go-to machine for creating the funniest, most outrageous excuses in seconds!"
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://github.com/rosecjanna/excuse/blob/main/Screenshot%202025-08-09%20040741.png)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
