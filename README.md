@@ -49,7 +49,7 @@ For Software:
 
 ### Project Demo
 # Video
-(https://drive.google.com/file/d/1dpMpvx2pNMg7iK7FSKc6NaesOWUVaBvB/view?usp=drive_link)
+(https://drive.google.com/file/d/1FZiNCTMt-iHVGxX-MC4Eyi_9V_uBZnn9/view?usp=drive_link)
 user-friendly interface where the user clicks a “Generate New Excuse” button, and within seconds, a funny, over-the-top excuse appears on the screen
 
 
