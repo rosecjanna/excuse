@@ -49,21 +49,14 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://github.com/rosecjanna/excuse/blob/main/AI%20Excuse%20Generator%20App%20and%208%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202025-08-09%2004-21-24.zip]
+user-friendly interface where the user clicks a “Generate New Excuse” button, and within seconds, a funny, over-the-top excuse appears on the screen
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Aneeta Anto & Anna Rose C J]: [Idea ,setting languages like html,css,js and corresponding frameworks and tools]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
-
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
 
