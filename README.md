@@ -41,7 +41,7 @@ npm install ]
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](https://github.com/rosecjanna/excuse/blob/main/Screenshot%202025-08-09%20040517.png)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
